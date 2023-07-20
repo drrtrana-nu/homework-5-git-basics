@@ -1,8 +1,7 @@
 name: GitHub Classroom Workflow
 
 on:
-  push:
-    branches: [ main ]
+  push
 
 jobs:
   build:

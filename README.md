@@ -1,6 +1,4 @@
 ## Homework Instructions
-MBAI 401 Techical On-Ramp<br>
-Suggested completion date: 08/10/22
 
 Problem 1
 ---
